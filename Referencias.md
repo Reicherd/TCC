@@ -49,3 +49,15 @@ Deep Reinforcement Learning-Based Automatic Exploration for Navigation in Unknow
 [53] Silver, David, et al. "Mastering the game of Go with deep neural networks and tree search." Nature 529.7587 (2016): 484-489. (AlphaGo) - http://willamette.edu/~levenick/cs448/goNature.pdf
 
 End-to-end training of deep visuomotor policies (2016), S. Levine et al. http://www.jmlr.org/papers/volume17/15-522/source/15-522.pdf
+
+
+# Robot Operating System (ROS)
+
+[OpenAI_ROS](https://bitbucket.org/theconstructcore/openai_ros/src/kinetic-devel/) - The environments connected to gym used by all our simulations that use OpenAI training
+
+[openai_examples_projects](https://bitbucket.org/theconstructcore/openai_examples_projects/src/master/) - many examples for using the openai_ros package with different robots
+
+
+
+
+
