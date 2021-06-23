@@ -1,7 +1,6 @@
 # Self/autonomous Driving com Deep Reinforcement Learning (DQN)
 
-## (lendo agora) 
-{
+lendoAgora {
 
   Driverless Car: Autonomous Driving Using Deep Reinforcement Learning In Urban Environment -https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8441797
   
