@@ -7,8 +7,11 @@ lendoAgora {
 }
 
 Self-driving Cars Using CNN and Q-learning - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8595684
+
 Autonomous Driving System based on Deep Q Learnig - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8494053
+
 Deep Reinforcement Learning for Autonomous Driving -https://arxiv.org/pdf/1811.11329.pdf
+
 Deep Reinforcement Learning for Simulated Autonomous Vehicle Control - http://cs231n.stanford.edu/reports/2016/pdfs/112_Report.pdf
 
 # Q-learning E DQN
