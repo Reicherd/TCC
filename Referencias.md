@@ -6,17 +6,36 @@ lido {
   
 }
 
-lendoAgora {
-
-  Self-driving Cars Using CNN and Q-learning - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8595684
-  
-}
+Self-driving Cars Using CNN and Q-learning - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8595684
 
 Autonomous Driving System based on Deep Q Learnig - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8494053
 
 Deep Reinforcement Learning for Autonomous Driving -https://arxiv.org/pdf/1811.11329.pdf
 
 Deep Reinforcement Learning for Simulated Autonomous Vehicle Control - http://cs231n.stanford.edu/reports/2016/pdfs/112_Report.pdf
+
+# Navigation e DQN
+
+
+lendoAgora {
+
+(236 citações)
+Target-driven visual navigation in indoor scenes using deep reinforcement learning - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7989381
+
+}
+
+(151 citações)
+Virtual-to-real deep reinforcement learning: Continuous control of mobile robots for mapless navigation - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8202134
+
+Socially aware motion planning with deep reinforcement learning - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8202312
+
+From perception to decision: A data-driven approach to end-to-end motion planning for autonomous ground robots - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7989182
+
+Deep reinforcement learning with successor features for navigation across similar environments - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8206049
+
+owards Vision-Based Deep Reinforcement Learningfor Robotic Motion Control - https://arxiv.org/pdf/1511.03791.pdf
+
+Deep Reinforcement Learning-Based Automatic Exploration for Navigation in Unknown Environment - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8789673
 
 # Q-learning E DQN
 [46] Mnih, Volodymyr, et al. "Playing atari with deep reinforcement learning." arXiv preprint arXiv:1312.5602 (2013). (First Paper named deep reinforcement learning) - http://arxiv.org/pdf/1312.5602.pdf
