@@ -22,7 +22,7 @@ Target-driven visual navigation in indoor scenes using deep reinforcement learni
 
 lendoAgora {
 
-(151 citações) tem bastante referencia interessante em II. RELATED WORK
+(151 citações) tem bastante referencia interessante em II. RELATED WORK (pesquisar sobre DDPG)
 Virtual-to-real deep reinforcement learning: Continuous control of mobile robots for mapless navigation - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8202134
 
 }
