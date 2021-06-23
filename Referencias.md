@@ -1,6 +1,6 @@
-#Self/autonomous Driving com Deep Reinforcement Learning (DQN)
+# Self/autonomous Driving com Deep Reinforcement Learning (DQN)
 
-(lendo agora) {
+## (lendo agora) {
   Driverless Car: Autonomous Driving Using Deep Reinforcement Learning In Urban Environment -https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8441797
 }
 
@@ -9,7 +9,7 @@ Autonomous Driving System based on Deep Q Learnig - https://ieeexplore.ieee.org/
 Deep Reinforcement Learning for Autonomous Driving -https://arxiv.org/pdf/1811.11329.pdf
 Deep Reinforcement Learning for Simulated Autonomous Vehicle Control - http://cs231n.stanford.edu/reports/2016/pdfs/112_Report.pdf
 
-#Q-learning E DQN
+# Q-learning E DQN
 [46] Mnih, Volodymyr, et al. "Playing atari with deep reinforcement learning." arXiv preprint arXiv:1312.5602 (2013). (First Paper named deep reinforcement learning) - http://arxiv.org/pdf/1312.5602.pdf
 
 [47] Mnih, Volodymyr, et al. "Human-level control through deep reinforcement learning." Nature 518.7540 (2015): 529-533. (Milestone) - https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf
