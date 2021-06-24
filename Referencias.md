@@ -64,6 +64,10 @@ lido {
 
 End-to-end training of deep visuomotor policies (2016), S. Levine et al. http://www.jmlr.org/papers/volume17/15-522/source/15-522.pdf
 
+# Outras referencias
+
+Simultaneous Localization and Mapping: Part I - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1638022
+
 # Videos e cursos
 
 https://www.youtube.com/watch?v=ELE2_Mftqoc - Reinforcement Learning Course - Full Machine Learning Tutorial
