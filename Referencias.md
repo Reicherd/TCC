@@ -44,6 +44,10 @@ lendoAgora {
 
 [46] Mnih, Volodymyr, et al. "Playing atari with deep reinforcement learning." arXiv preprint arXiv:1312.5602 (2013). (First Paper named deep reinforcement learning) - http://arxiv.org/pdf/1312.5602.pdf
 
+}
+
+lido {
+
 [47] Mnih, Volodymyr, et al. "Human-level control through deep reinforcement learning." Nature 518.7540 (2015): 529-533. (Milestone) - https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf
 
 }
