@@ -20,7 +20,7 @@ Deep Reinforcement Learning for Simulated Autonomous Vehicle Control - http://cs
 (236 citações)
 Target-driven visual navigation in indoor scenes using deep reinforcement learning - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7989381
 
-lendoAgora {
+lido {
 
 (151 citações) tem bastante referencia interessante em II. RELATED WORK (pesquisar sobre DDPG)
 Virtual-to-real deep reinforcement learning: Continuous control of mobile robots for mapless navigation - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8202134
@@ -49,3 +49,9 @@ Deep Reinforcement Learning-Based Automatic Exploration for Navigation in Unknow
 [53] Silver, David, et al. "Mastering the game of Go with deep neural networks and tree search." Nature 529.7587 (2016): 484-489. (AlphaGo) - http://willamette.edu/~levenick/cs448/goNature.pdf
 
 End-to-end training of deep visuomotor policies (2016), S. Levine et al. http://www.jmlr.org/papers/volume17/15-522/source/15-522.pdf
+
+# Videos e cursos
+
+https://www.youtube.com/watch?v=ELE2_Mftqoc - Reinforcement Learning Course - Full Machine Learning Tutorial
+
+https://app.theconstructsim.com/#/Course/62 - curso ROS_OpenAI
