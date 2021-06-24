@@ -40,6 +40,8 @@ owards Vision-Based Deep Reinforcement Learningfor Robotic Motion Control - http
 
 Deep Reinforcement Learning-Based Automatic Exploration for Navigation in Unknown Environment - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8789673
 
+NGUYEN, D.-V.; VUONG, T.-L.; KIEU, H.-D.; PHAM, L.; LE, T.-H. Vision memoryfor target object navigation using deep reinforcement learning: An empirical study. In:IEEE.2018 IEEE International Conference on Systems, Man, and Cybernetics(SMC). [S.l.], 2018. p. 3267–3273 - à procurar pdf
+
 # Q-learning E DQN
 
 lendoAgora {
