@@ -16,6 +16,11 @@ Deep Reinforcement Learning for Simulated Autonomous Vehicle Control - http://cs
 
 # Navigation e DQN
 
+lendoAgora {
+
+Deep  Reinforcement  Learning  with  Successor  Featuresfor  Navigation  across  Similar  Environments - https://arxiv.org/pdf/1612.05533.pdf
+
+}
 
 (236 citações)
 Target-driven visual navigation in indoor scenes using deep reinforcement learning - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7989381
