@@ -16,16 +16,12 @@ Deep Reinforcement Learning for Simulated Autonomous Vehicle Control - http://cs
 
 # Navigation e DQN
 
-lendoAgora {
-
-Deep  Reinforcement  Learning  with  Successor  Featuresfor  Navigation  across  Similar  Environments - https://arxiv.org/pdf/1612.05533.pdf
-
-}
-
 (236 citações)
 Target-driven visual navigation in indoor scenes using deep reinforcement learning - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7989381
 
 lido {
+
+Deep  Reinforcement  Learning  with  Successor  Featuresfor  Navigation  across  Similar  Environments - https://arxiv.org/pdf/1612.05533.pdf
 
 (151 citações) tem bastante referencia interessante em II. RELATED WORK (pesquisar sobre DDPG)
 Virtual-to-real deep reinforcement learning: Continuous control of mobile robots for mapless navigation - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8202134
@@ -43,9 +39,14 @@ owards Vision-Based Deep Reinforcement Learningfor Robotic Motion Control - http
 Deep Reinforcement Learning-Based Automatic Exploration for Navigation in Unknown Environment - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8789673
 
 # Q-learning E DQN
+
+lendoAgora {
+
 [46] Mnih, Volodymyr, et al. "Playing atari with deep reinforcement learning." arXiv preprint arXiv:1312.5602 (2013). (First Paper named deep reinforcement learning) - http://arxiv.org/pdf/1312.5602.pdf
 
 [47] Mnih, Volodymyr, et al. "Human-level control through deep reinforcement learning." Nature 518.7540 (2015): 529-533. (Milestone) - https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf
+
+}
 
 [48] Wang, Ziyu, Nando de Freitas, and Marc Lanctot. "Dueling network architectures for deep reinforcement learning." arXiv preprint arXiv:1511.06581 (2015). (ICLR best paper,great idea) - http://arxiv.org/pdf/1511.06581
 
