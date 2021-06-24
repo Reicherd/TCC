@@ -16,6 +16,8 @@ Deep Reinforcement Learning for Simulated Autonomous Vehicle Control - http://cs
 
 # Navigation e DQN
 
+(Dissertação de mestrado) Aprendizado por reforço profundo para navegação visual semântica com memória - https://teses.usp.br/teses/disponiveis/55/55134/tde-16122020-164714/pt-br.php
+
 (236 citações)
 Target-driven visual navigation in indoor scenes using deep reinforcement learning - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7989381
 
