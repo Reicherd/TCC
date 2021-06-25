@@ -6,6 +6,8 @@ lido {
   
 }
 
+A Survey of Motion Planning and Control Techniques for Self-Driving Urban Vehicles - https://ieeexplore.ieee.org/document/7490340
+
 Self-driving Cars Using CNN and Q-learning - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8595684
 
 Autonomous Driving System based on Deep Q Learnig - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8494053
@@ -65,6 +67,8 @@ lido {
 End-to-end training of deep visuomotor policies (2016), S. Levine et al. http://www.jmlr.org/papers/volume17/15-522/source/15-522.pdf
 
 # AGV
+
+A Deep Reinforcement Learning Based Approach for AGVs Path Planning - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9327532
 
 The Approach of Automated Guided Vehicle Systems -https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4125635
 
