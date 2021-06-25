@@ -64,6 +64,10 @@ lido {
 
 End-to-end training of deep visuomotor policies (2016), S. Levine et al. http://www.jmlr.org/papers/volume17/15-522/source/15-522.pdf
 
+# AGV
+
+The Approach of Automated Guided Vehicle Systems -https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4125635
+
 # Outras referencias
 
 Simultaneous Localization and Mapping: Part I - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1638022
