@@ -76,6 +76,8 @@ The Approach of Automated Guided Vehicle Systems -https://ieeexplore.ieee.org/st
 
 Simultaneous Localization and Mapping: Part I - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1638022
 
+Unmanned Aerial Vehicle for Search and Rescue Mission - 
+
 # Videos e cursos
 
 https://www.youtube.com/watch?v=ELE2_Mftqoc - Reinforcement Learning Course - Full Machine Learning Tutorial
